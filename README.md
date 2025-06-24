@@ -1,5 +1,10 @@
 # acamiladias
 
+
+![acamiladias's GitHub stats](https://github-readme-stats.vercel.app/api?username=acamiladias&show_icons=true&theme=synthwave)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acamiladias&layout=compact&theme=synthwave)
+
+
 <p>
 Oi, eu sou a acamiladias, tenho 29 anos e estou em processo de migração de carreira.
 Sou formada em Design Industrial pela UDESC e atualmente faço ADS pela mesma instituição.
